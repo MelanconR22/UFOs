@@ -13,6 +13,18 @@ There are multiple ways to sort through the data and filter the user search resu
 
 ![Date_Search](https://user-images.githubusercontent.com/107599510/190482772-1d192918-65a3-4ce3-9a21-5ce6981dcbc6.png)
 
+The following shows results from using the state filter:
+
+![State_search](https://user-images.githubusercontent.com/107599510/190483609-b0ef3d4a-c39c-4cb7-aa93-783240305285.png)
+
+The following shows results from using the shape filter:
+
+![Shape_search](https://user-images.githubusercontent.com/107599510/190483634-8e72db93-19bb-4b2b-9134-5c005f9bbc48.png)
+
+You can also add multiple filters to your search.  In the example below, the state filter was used to search for sightings in the state of New Mexico.  In the first New Mexico state only search, two results were produced.  One sighting was reported in Albuquerque on 1/1/2010 as well as a sighting in Tularosa on 1/10/2010.  For this search, the state filter was set to New Mexico and the date filter with the date of 1/10/2010.  The results show only the sighting reported on 1/10/2010 from Tularosa, NM.  
+
+![Combo_search](https://user-images.githubusercontent.com/107599510/190483661-c2a76850-18da-47ef-94e9-7a8ebc3a9bbb.png)
+
 
 # Summary: 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
