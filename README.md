@@ -27,4 +27,10 @@ You can also add multiple filters to your search.  In the example below, the sta
 
 
 # Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+In a summary statement, describe one drawback of this new design and two recommendations for further development:
+
+In summary, the webpage is able to filter through the data and display the results of user input.  One drawback to this particular design, is that if you wanted to search for results in New Mexico, and you entered "NM" into the filter, you would get no results.  In order to get results from New Mexico, you have to enter "nm" into the filter.  
+
+![No_results](https://user-images.githubusercontent.com/107599510/190485634-487f504f-f0f7-4e61-a22c-81af583bd47a.png)
+
+The recommendations that I would make to improve this design for further development would be to allow the search results to be filtered using either capitalized or non-capitalized input.  Additionally, one must enter the full date in order to produce results.  For example, entering just the year or month won't produce results for that year or month.  You must be specific with the date entered to get search results.  Lastly, I would recommend a clear all filter button to remove the input entered instead of having to remove each input for the results to reset.  
